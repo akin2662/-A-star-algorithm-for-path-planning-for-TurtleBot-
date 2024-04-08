@@ -1,4 +1,4 @@
-# Astar_Algorithm_Simulation
+***A-star Algorithm***
 
 student1: Raajith Gadam (UID:119461167)(Directory ID: raajithg)
 student2: Advait Kinikar (UID: 120097997 )(Directory ID:kinikara ) 
@@ -17,10 +17,13 @@ heapq
 matplotlib
 Time
 Math
+rclpy
+geometry_msgs 
 
 Part1 instructions:
 
-Run python3 part1.py
+1) Run python3 part1.py
+2) Input the values as asked in the terminal
 
 Input:
 Clearance from the obstacles: 5
@@ -36,12 +39,13 @@ Runtime: 25.256956100463867 seconds
 note:a video will be saved in the same directory as the code!
 
 Part2 instructions:
-1.Place the turtlebot3_project3 package in source folder of your workspace
-2.colcon build
-3.source install/setup.bash
-4.ros2 launch turtlebot3_project3 competition_world.launch.py
-5.In new terminal,source install/setup.bash
-6.ros2 run turtlebot3_project3 part2_new.py
+1. Place the turtlebot3_project3 package in source folder of your workspace
+2. colcon build
+3. source install/setup.bash
+4. ros2 launch turtlebot3_project3 competition_world.launch.py
+5. In new terminal,source install/setup.bash
+6. ros2 run turtlebot3_project3 part2_new.py
+7. Input the values as asked in the terminal
 
 Test case:
 Input:
@@ -49,3 +53,6 @@ Input:
 2. Start coordinates and angle: 0 0 0
 3. Goal coordinates: 5.1 0
 4. RPM1 and RPM2: 10 16
+
+
+
