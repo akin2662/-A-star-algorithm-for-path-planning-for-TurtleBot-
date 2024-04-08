@@ -54,5 +54,7 @@ Input:
 3. Goal coordinates: 5.1 0
 4. RPM1 and RPM2: 10 16
 
+***NOTE:** The simulation environment (world) in gazebo is taken from https://github.com/shantanuparabumd/turtlebot3_project3.git as required for ENPM 661 Project3 Phase2
+
 
 
