@@ -4,7 +4,12 @@
 ## Project Description:
 This script contains an implementation of the A-star algorithm for a point robot for navigation around obstacles in a 2D space. It also contains a script, which after finding the path, sends the appropriate velocity commands to the TurtleBot3 Waffle, which will then move according to the vel commands.
 
-## Dependencies 
+## Dependencies:
+
+* python 3.11 (any version above 3 should work)
+* Python running IDE (We used Pycharm)
+  
+## Libraries Used:
 * numpy
 * time
 * cv2
