@@ -17,7 +17,7 @@ This script contains an implementation of the A-star algorithm for a point robot
 
 ## Instructions:
 
-# Part1:
+### Part1:
 1) Run python3 part1.py
 2) Input the values as asked in the terminal
 
@@ -35,7 +35,7 @@ Final Cost:  1001.3822195135446
 Runtime: 25.256956100463867 seconds
 note:a video will be saved in the same directory as the code!
 
-# Part2:
+### Part2:
 1. Place the turtlebot3_project3 package in source folder of your workspace
 2. colcon build
 3. source install/setup.bash
