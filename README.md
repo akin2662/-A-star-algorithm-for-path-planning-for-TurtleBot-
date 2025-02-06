@@ -1,4 +1,4 @@
-# A-star-algorithm-for-2D-point-robot-path-planning
+# A-star-algorithm-for-path-planning-for-Turtlebot
 **Note:** This project was a requirement for the course ENPM 661- Planning for Autonomous Robots at University of Maryland, College Park and was done in collaboration with Raajith Gadam (raajithg@umd.edu)
 
 ## Project Description:
